@@ -1,0 +1,15 @@
+h1{
+  color: aqua;
+}
+button{
+  color:white;
+  background-color: skyblue;
+  border-radius: 20px;
+}
+#Card{
+background-color: whitesmoke;
+width: 300px;
+border: 20px;
+padding: 50px;
+margin: 20px;
+}
